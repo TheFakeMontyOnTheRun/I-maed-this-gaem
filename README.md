@@ -5,4 +5,4 @@ The game is very simple - and that's to be expected, considering that I wrote it
 
 ![ ](/screenshot_game.png?raw=true)
 
-The game is live at: montyprojects.com/I-maed-this-gaem/game.html
+The game is live at: http://montyprojects.com/I-maed-this-gaem/game.html
